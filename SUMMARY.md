@@ -17,6 +17,6 @@
 
 ## Utilitar
 
-* [Release Note](utilitar/release-note.md)
+* [Release Notes](utilitar/release-notes.md)
 * [License of API](utilitar/license-of-api.md)
 * [Contact](utilitar/contact.md)
